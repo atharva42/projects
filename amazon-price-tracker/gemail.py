@@ -2,9 +2,9 @@ import smtplib
 
 
 def send_email(product_name, product_price):
-    TO = 'rmint8876@gmail.com'
-    FROM = 'adityapande983@gmail.com'
-    PASSKEY = 'Newsome44'
+    TO = //Receivers_email
+    FROM = //senders_email
+    PASSKEY = //Email_login_password
     connection = smtplib.SMTP('smtp.gmail.com', port=587)
     connection.starttls()
     connection.login(user=FROM, password=PASSKEY)
