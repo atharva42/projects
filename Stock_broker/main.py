@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 driver_path = 'C:\Chrome_driver_me\chromedriver.exe'
 # The below link is actual link for the job for which we want to apply
 link = 'https://www.linkedin.com/jobs/search/?currentJobId=2552659332&f_AL=true&keywords=python%20intern'
-email = //login_email_here
+email = //Login_email_here
 password = //LinkedIn_password
 mobile = //Registered_mobile_number
 months = '3'
