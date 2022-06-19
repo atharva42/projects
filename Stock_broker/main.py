@@ -5,9 +5,9 @@ from selenium.common.exceptions import NoSuchElementException
 
 driver_path = 'C:\Chrome_driver_me\chromedriver.exe'
 link = 'https://www.linkedin.com/jobs/search/?currentJobId=2552659332&f_AL=true&keywords=python%20intern'
-email = 'rmint8876@gmail.com'
-password = 'Helpline26'
-mobile = '9763082982'
+email = //login_email_here
+password = //LinkedIn_password
+mobile = //Registered_mobile_number
 months = '3'
 
 driver = webdriver.Chrome(driver_path)
